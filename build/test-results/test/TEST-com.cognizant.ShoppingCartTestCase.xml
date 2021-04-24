@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cognizant.ShoppingCartTestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-24T19:07:37" hostname="LTUS148301" time="0.054">
+  <properties/>
+  <testcase name="startShoppingCartTestCase()" classname="com.cognizant.ShoppingCartTestCase" time="0.054"/>
+  <system-out><![CDATA[Cart size now is 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
