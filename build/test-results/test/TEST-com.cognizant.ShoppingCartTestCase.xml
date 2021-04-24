@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cognizant.ShoppingCartTestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-24T19:07:37" hostname="LTUS148301" time="0.054">
+<testsuite name="com.cognizant.ShoppingCartTestCase" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-04-24T21:10:13" hostname="LTUS148301" time="0.056">
   <properties/>
-  <testcase name="startShoppingCartTestCase()" classname="com.cognizant.ShoppingCartTestCase" time="0.054"/>
+  <testcase name="getEmptyCart()" classname="com.cognizant.ShoppingCartTestCase" time="0.043"/>
+  <testcase name="addItemToCartTestCase()" classname="com.cognizant.ShoppingCartTestCase" time="0.007"/>
+  <testcase name="addMoreItemToCartTestCase()" classname="com.cognizant.ShoppingCartTestCase" time="0.001"/>
+  <testcase name="getQuantityOfSameItemTestCase()" classname="com.cognizant.ShoppingCartTestCase" time="0.002"/>
   <system-out><![CDATA[Cart size now is 0
+6.5
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
